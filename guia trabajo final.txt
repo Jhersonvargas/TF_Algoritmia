@@ -1,0 +1,47 @@
+descargas run archivo csv o crear uno quese al abase de datos de registros de pedidos de interner de una aferreteria.
+
+utilizar la recursivida parq qeu el ususarion puera registrarse en l apgina, hacer su pedido y compra correspondiente, tambien puede anular dicha compra.
+
+utilizar pytjon para crear un arbol de desicion y aplicar la entripia y ganancia de informacion.
+
+compleatr todos estos datos en el informe y yambine oner los archivos.
+
+----------------------------------------------------------------------------
+Por supuesto, aquí tienes una versión más compacta y resumida de la información relacionada con el proyecto "Creación de Algoritmos Aplicados a la Inteligencia Artificial para la ferretería 'El Tornillo Feliz'". Esta versión incluirá los elementos principales y sus interrelaciones:
+
+Proyecto: Creación de Algoritmos Aplicados a la Inteligencia Artificial para la Ferretería 'El Tornillo Feliz'
+
+Objetivo:
+Implementar algoritmos de inteligencia artificial en la ferretería "El Tornillo Feliz" para optimizar la experiencia de compra en línea, pedidos y seguimiento de clientes.
+
+Componentes Clave:
+
+Registro de Clientes:
+Utilización de recursividad para permitir a los usuarios registrarse en la plataforma.
+Hacer Pedido:
+Aplicación de árboles de decisiones para guiar a los usuarios a través de la selección y confirmación de productos.
+Anulación de Compra:
+Implementación de algoritmos de árboles de decisión y conceptos de entropía y ganancia de información para permitir a los usuarios anular compras en ciertas condiciones.
+Flujo de Eventos:
+
+Usuario accede a la página web de "El Tornillo Feliz".
+Selecciona opciones como "Registrarse", "Hacer Pedido" o "Anular Compra".
+Uso de árboles de decisión para guiar al usuario en cada proceso.
+Entropía y ganancia de información aplicadas para tomar decisiones informadas.
+Interacción recursiva para registro y toma de decisiones.
+Generación automática de reportes y seguimiento de pedidos.
+Resultados Esperados:
+
+Experiencia de compra en línea más eficiente y personalizada.
+Mayor eficacia en la toma de decisiones para anulación de compras.
+Automatización de la generación de reportes y seguimiento de pedidos.
+Integración de conceptos aprendidos en algoritmos de IA, árboles de decisiones, entropía y ganancia de información.
+Desarrollo Técnico:
+
+Implementación en Python para simular el proceso.
+Clases como "Usuario", "Producto" y "Pedido" para representar los componentes.
+Funciones para el registro de usuarios, selección de productos y anulación de compras.
+Conclusión:
+El proyecto "Creación de Algoritmos Aplicados a la Inteligencia Artificial para la Ferretería 'El Tornillo Feliz'" busca mejorar la experiencia en línea de los clientes a través de la aplicación de algoritmos, toma de decisiones y conceptos de IA. La integración de árboles de decisión, entropía y ganancia de información en el proceso proporcionará una plataforma eficiente y efectiva para el registro, compra y anulación de pedidos.
+
+Si necesitas detalles adicionales o más información, no dudes en preguntar.
